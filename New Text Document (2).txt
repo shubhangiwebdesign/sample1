@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head charset=UTF-8>
+<title>Learning Tables</title>
+</head>
+<body>
+<table>
+<tr>
+<th>Names</th><th>Year</th><th>P/F>/th>
+</tr>
+<tr>
+</tr>
+</table>
+</body>
+</html>

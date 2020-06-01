@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset=UTF-8>
+    <title>Firstpage</title>
+  </head>
+  <body>
+    <main> 
+      <p>Hi, I am shubhangi thakur.This is my main content.</p>
+      <img src="C:/Users/shubhangi30/Desktop/styles-conferencing/imgs/shubhangi.jpg"
+                alt="My pic"
+                 width="5000">
+          </main>
+    <footer>
+      &copy;shubhangithakur      
+    </footer>
+  </body>
+  
+</html>
